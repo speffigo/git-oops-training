@@ -1,0 +1,5 @@
+1.> Have covered the Git fundamentals.....
+2.> Installed all the necessary softwares
+3.> created repository...added .gitignore and license file to my repo.
+4.> Covered and made notes of OOPS concepts.
+
