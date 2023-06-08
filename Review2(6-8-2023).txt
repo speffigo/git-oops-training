@@ -1,0 +1,17 @@
+Topics covered:
+a.> SQL
+b.> JAVA Concepts 
+
+a.> In SQL:-
+            (i) Basic sql querries
+            (ii) JOINS(*)
+                     ->Inner join
+                     ->Left/Right/Full outer join
+            (iii) Dates and Aggregate functions
+            (iv) solved few querries on HackerRank platform
+            (v) HackerRank link: https://www.hackerrank.com/domains/sql?filters%5Bstatus%5D%5B%5D=solved&badge_type=sql
+
+b.> In JAVA:-
+           (i) Watched videoes and made notes of few concepts where I got stuck
+           (ii) went through Exception Handling concept in detail
+           (iii) covered few DSA concepts:- ArrayList,HashMap.
